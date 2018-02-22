@@ -1,11 +1,5 @@
 <?php
 
-echo "# PHP" >> README.md 
-git init 
-git add README.md 
-git commit -m "primeiro commit" 
-git remoto adicionar origem https://github.com/Rogerhsc/PHP.git
-git push -u master de origem
 
 $servername = "localhost";
 $username = "root";
